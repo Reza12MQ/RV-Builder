@@ -6,4 +6,5 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "both"
 excluded-patches = "'Spoof device dimensions' 'Always repeat' 'Enable debugging' 'Client spoof' 'Announcements' 'Hide captions button' 'Hide autoplay button' 'Hide cast button' 'Enable tablet layout' 'Theme' 'Change start page' 'Tablet mini player' 'Spoof app version' 'Wide searchbar' 'Hide timestamp' 'Disable rolling number animations' 'Hide 'Load more' button' 'Hide seekbar' 'Hide endscreen cards' 'Hide album cards' 'Disable suggested video end screen' 'Hide crowdfunding box' 'Hide info cards' 'Player flyout menu' 'Hide filter bar' 'Hide floating microphone button' 'Comments'"
