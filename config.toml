@@ -7,4 +7,3 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-excluded-patches = "'Hide endscreen cards' 'Hide info cards' 'Disable rolling number animations' 'Hide seekbar' 'Hide timestamp' 'Wide searchbar' 'Spoof app version' 'Theme' 'Announcements' 'Always repeat' 'Enable debugging' 'Spoof device dimensions'"
