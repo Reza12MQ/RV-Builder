@@ -26,7 +26,6 @@ jobs:
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2
         with:
-          source_gh_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: j-hc/revanced-magisk-module
           upstream_branch: main # defaults to main
           pr_labels: template_sync # optional, no default
