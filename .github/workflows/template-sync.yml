@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.ACTIONS_WORKFLOW }}
 
       - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v2.5.2
+        uses: AndreasAugustin/actions-template-sync@v2
         with:
           source_gh_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: j-hc/revanced-magisk-module
